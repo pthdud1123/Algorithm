@@ -42,13 +42,16 @@
     <ClCompile Include="stickers.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="coin.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="cube1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="cube2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="coin1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="coin.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
