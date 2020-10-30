@@ -36,10 +36,19 @@
     <ClCompile Include="polygon.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="cube.cpp">
+    <ClCompile Include="addingways.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="addingways.cpp">
+    <ClCompile Include="stickers.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="coin.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="cube1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="cube2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
