@@ -1,0 +1,2 @@
+C:\mini_0u0_\algorithm\backjoon\Debug\알고리즘.exe
+C:\mini_0u0_\algorithm\backjoon\Debug\알고리즘.pdb
