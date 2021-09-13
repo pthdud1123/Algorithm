@@ -1,7 +1,8 @@
 ﻿  1893.cpp
-C:\mini_0u0_\algorithm\2021\2021\1893.cpp(9,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\mini_0u0_\algorithm\2021\2021\1893.cpp(23,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\mini_0u0_\algorithm\2021\2021\1893.cpp(26,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\mini_0u0_\algorithm\2021\2021\1893.cpp(54,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\mini_0u0_\algorithm\2021\2021\1893.cpp(67,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\mini_0u0_\algorithm\2021\2021\1893.cpp(11,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\mini_0u0_\algorithm\2021\2021\1893.cpp(26,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\mini_0u0_\algorithm\2021\2021\1893.cpp(31,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\mini_0u0_\algorithm\2021\2021\1893.cpp(44,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\mini_0u0_\algorithm\2021\2021\1893.cpp(73,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\mini_0u0_\algorithm\2021\2021\1893.cpp(88,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   2021.vcxproj -> C:\mini_0u0_\algorithm\2021\Debug\2021backjoon.exe
