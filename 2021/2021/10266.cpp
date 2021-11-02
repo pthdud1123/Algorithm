@@ -17,7 +17,7 @@ vector<int>make_table(string w) {
 	}
 	return table;
 }
-//¸Þ·î
+
 bool KMP(string original, string target) {
 	vector<int>checktable = make_table(target);
 	int j = 0;
